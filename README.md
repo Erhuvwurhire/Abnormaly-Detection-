@@ -1,4 +1,4 @@
-## Industrial Sensor Network – Anomaly Detection 
+## Anomaly Detection in Industrial Sensor Network 
 Detecting faults before failure: This project involved the use of unsupervised learning for predictive maintenance in manufacturing systems. 
 Project Overview
 The project implements unsupervised anomaly detection on high-dimensional sensor data from an industrial process. Using the SECOM dataset (real-world semiconductor manufacturing data), we identify abnormal patterns in sensor readings that could indicate faults, process drifts, or system failures.
